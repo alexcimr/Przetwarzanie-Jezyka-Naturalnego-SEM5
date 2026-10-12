@@ -1,0 +1,1 @@
+# Przetwarzanie-Jezyka-Naturalnego-SEM5
