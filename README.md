@@ -13,3 +13,9 @@ Alex Cimr, Piotr Cieckiewicz
 - Wyznaczyc entropie tekstu
 - Wyznaczyc kody huffmana
 - Wyliczenie efektywnosci kompresji korpusu tesktu
+
+## Task 3
+- Sprawdzenie czy zachodzi prawo Zipfa i jak dobrze
+- Ile trzeba znac wyrazow zeby rozumiec 90% teskstu, zrobic liste tych wyrazow
+- Znalesc rdzenie jezyka tzn mamy graf slow, krawdzie tworzymy tak: Ala ma bialego kota. - dla "ma" tworzymy krawedz do ala i kota.
+  Szukamy rdzenii czyli pierwsze 100 wyrazow ktore maja najwiecej krawedzi.
